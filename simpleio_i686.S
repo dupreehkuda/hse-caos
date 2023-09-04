@@ -1,5 +1,3 @@
-/* -*- asm -*- */
-
         .text
 _form1: .asciz  "%d"
         .text
